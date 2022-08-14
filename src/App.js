@@ -7,7 +7,7 @@ const App = () => {
     <div className="App">
       <div className="App-content">
         <p>
-          Aquí esta el TO-DO list
+          Aquí esta el TO-DO lista
         </p>
         <Form/>
       </div>
